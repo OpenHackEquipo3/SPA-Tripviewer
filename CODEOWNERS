@@ -1,0 +1,5 @@
+# Este es un comentario.
+# Cada línea es el patrón de un archivo seguido por uno o más propietarios.
+
+# Estos propietarios serán los propietarios predeterminados para todo en # el repositorio. A menos que una coincidencia posterior tenga prioridad, se le solicitará # revisión a # @global-owner1 y @global-owner2 cuando alguien abra una solicitud de extracción.
+*       @juancruzTrinidad1607
